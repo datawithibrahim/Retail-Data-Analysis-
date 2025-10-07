@@ -1,7 +1,7 @@
 #  Data Analysis Project — Retail Data Analysis Using SQL / Python
 
 ## 📘 Overview
-This project focuses on analyzing **[your dataset/topic name]** to uncover trends, patterns, and meaningful insights.  
+This project focuses on analyzing **Retail Data Analysis** to uncover trends, patterns, and meaningful insights.  
 It was built using **Python, SQL, and visualization tools** to demonstrate real-world data analysis and storytelling skills.
 
 ---
