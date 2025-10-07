@@ -1,4 +1,4 @@
-# 📊 Data Analysis Project — [Project Title]
+# 📊 Data Analysis Project — [Retail Data Analysis Using SQL / Python]
 
 ## 📘 Overview
 This project focuses on analyzing **[your dataset/topic name]** to uncover trends, patterns, and meaningful insights.  
